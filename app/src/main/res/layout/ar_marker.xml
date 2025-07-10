@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/wrapper"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_alignParentLeft="false">
+
+
+    <RelativeLayout
+        android:id="@+id/relativeLayout2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:layout_constraintLeft_creator="1"
+        tools:layout_constraintRight_creator="1"
+        tools:layout_constraintTop_creator="1"
+        app:layout_constraintHorizontal_bias="0.5">
+
+        <ImageView
+            android:id="@+id/underlay"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:src="@drawable/sign_underlay" />
+
+        <RelativeLayout
+            android:id="@+id/ar_line_holder"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@id/underlay"
+            android:layout_alignRight="@id/underlay"
+            android:layout_alignTop="@id/underlay"
+            android:layout_centerHorizontal="true">
+
+            <RelativeLayout
+                android:id="@+id/ar_line"
+                android:layout_width="wrap_content"
+                android:layout_height="200dp"
+                android:layout_centerInParent="true">
+
+                <View
+                    android:layout_width="3dp"
+                    android:layout_height="fill_parent"
+                    android:background="#FFF" />
+
+                <View
+                    android:layout_width="1dp"
+                    android:layout_height="fill_parent"
+                    android:layout_marginLeft="1dp"
+                    android:layout_marginRight="1dp"
+                    android:background="#000" />
+
+            </RelativeLayout>
+        </RelativeLayout>
+
+        <ImageView
+            android:id="@+id/unit_symbol"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:src="@drawable/fail" />
+
+    </RelativeLayout>
+
+
+    <RelativeLayout
+        android:id="@+id/marker_details"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:layout_marginEnd="11dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginStart="8dp"
+        android:alpha="0.7"
+        android:background="@drawable/marker_details_underlay"
+        android:paddingRight="5dp"
+        app:layout_constraintBottom_toTopOf="@+id/relativeLayout2"
+        app:layout_constraintLeft_toLeftOf="parent"
+        android:layout_marginRight="8dp"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_marginTop="8dp">
+
+
+        <TextView
+            android:id="@+id/unit_code"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/unit_threat"
+            android:text=""
+            android:textAppearance="?android:attr/textAppearance"
+            android:textColor="#FFF"
+            android:textSize="8sp" />
+
+        <TextView
+            android:id="@+id/dist"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/unit_code"
+            android:text="Dist: "
+            android:textAppearance="?android:attr/textAppearance"
+            android:textColor="#FFF"
+            android:textSize="8sp" />
+
+        <TextView
+            android:id="@+id/unit_dist2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toEndOf="@+id/dist"
+            android:layout_below="@+id/unit_code"
+            android:text=""
+            android:textAppearance="?android:attr/textAppearance"
+            android:textColor="#FFF"
+            android:textSize="8sp" />
+        <TextView
+            android:id="@+id/unit_lat"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_below="@+id/unit_dist2"
+            android:text=""
+            android:textAppearance="?android:attr/textAppearance"
+            android:textColor="#FFF"
+            android:textSize="8sp" />
+
+        <TextView
+            android:id="@+id/unit_lon"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_below="@+id/unit_lat"
+            android:text=""
+            android:textAppearance="?android:attr/textAppearance"
+            android:textColor="#FFF"
+            android:textSize="8sp" />
+
+        <View
+            android:id="@+id/View05"
+            android:layout_width="70dp"
+            android:layout_height="0.5dp"
+            android:layout_below="@+id/unit_lon"
+            android:layout_marginBottom="1dp"
+            android:alpha="0.5"
+            android:background="#FFF"
+            android:visibility="gone" />
+
+        <TextView
+            android:id="@+id/potText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/View05"
+            android:layout_marginLeft="3dp"
+            android:layout_toEndOf="@+id/progressBar"
+            android:text="150"
+            android:textAppearance="?android:attr/textAppearance"
+            android:textColor="#FFF"
+            android:textSize="8sp"
+            android:visibility="gone" />
+
+        <ProgressBar
+            android:id="@+id/progressBar"
+            style="?android:attr/progressBarStyleHorizontal"
+            android:layout_width="50dp"
+            android:layout_height="7dp"
+            android:layout_below="@+id/View05"
+            android:layout_marginTop="2dp"
+            android:visibility="gone" />
+
+    </RelativeLayout>
+
+</android.support.constraint.ConstraintLayout>

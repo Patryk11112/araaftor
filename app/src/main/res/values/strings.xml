@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App -->
+    <string name="app_name">ARAAFTOR</string>
+    <!-- description -->
+    <string name="app_desc">This plugin demonstrate extension designed for the ATAK application that supports situational awareness using artificial intelligence mechanisms and sensory data</string>
+
+    <string name="closeDrawer">Navigation View</string>
+    <string name="openDrawer">Navigation View Closed</string>
+
+    <string-array name="cord_array">
+        <item>DD</item>
+        <item>DM</item>
+        <item>DMS</item>
+    </string-array>
+
+</resources>

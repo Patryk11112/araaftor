@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--  COMMON  -->
+    <color name="darker_gray">#121212</color>
+    <color name="black">#000</color>
+    <color name="white">#fff</color>
+    <color name="khaki">#88aa00</color>
+    <color name="Snow">#ffffff</color>
+    <color name="Zircon">#DADEE6</color>
+    <color name="GraySuit">#919499</color>
+    <color name="SanJuan">#434E63</color>
+    <color name="BlueZodiac">#3C4352</color>
+    <color name="BlackRock">#29303D</color>
+    <color name="Onyx">#12141A</color>
+    <color name="ToryBlue">#144c91</color>
+    <color name="RoyalBlue">#1F73DE</color>
+    <color name="OK">#78D428</color>
+    <color name="Warning">#F0D732</color>
+    <color name="Mandatory">#EB6E38</color>
+    <color name="Attention">#ED3E41</color>
+    <color name="Navy">#0074A8</color>
+    <color name="Glacier">#0098DC</color>
+    <color name="Frost">#33C0FF</color>
+    <color name="Charcoal">#5C5C5C</color>
+    <color name="Stone4">#8C8C8C</color>
+    <color name="Stone3">#C8C8C8</color>
+    <color name="Stone2">#D9D9D9</color>
+    <color name="Stone1">#E6E6E6</color>
+    <color name="Stained">#F7F7F7</color>
+    <color name="black_semi_transparent">#B2000000</color>
+    <!--  LED  -->
+    <!--  PRESET  -->
+</resources>

@@ -1,0 +1,5 @@
+<!-- res/drawable/circle_button.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="@android:color/transparent" /> <!-- Tło przycisku -->
+    <corners android:radius="500dp" /> <!-- Ustala promień okręgu (połowa szerokości lub wysokości przycisku) -->
+</shape>

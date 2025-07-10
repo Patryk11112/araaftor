@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:alpha="0.6"
+    android:background="@drawable/marker_detail"
+    android:orientation="vertical">
+
+    <TableLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true">
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <Spinner
+                android:id="@+id/spinner1"
+                style="@style/ATAKSpinner"
+                android:layout_width="fill_parent"
+                android:layout_height="match_parent"
+                android:entries="@array/cord_array"
+                android:prompt="@string/closeDrawer" />
+
+
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+
+            <TextView
+                android:id="@+id/dist"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentStart="true"
+                android:layout_below="@id/item_image"
+                android:text="Dist:"
+                android:textAppearance="?android:attr/textAppearance"
+                android:textColor="#FFF"
+                android:textSize="12sp" />
+
+            <TextView
+                android:id="@+id/dist_val"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_toEndOf="@+id/dist"
+                android:text=""
+                android:textAppearance="?android:attr/textAppearance"
+                android:textColor="#FFF"
+                android:textSize="12sp" />
+            <TextView
+                android:id="@+id/dist_val1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_toEndOf="@+id/dist"
+                android:text="m"
+                android:textAppearance="?android:attr/textAppearance"
+                android:textColor="#FFF"
+                android:textSize="12sp" />
+
+        </TableRow>
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+
+            <View
+                android:id="@+id/View"
+                android:layout_width="match_parent"
+                android:layout_span="6"
+                android:layout_height="1dp"
+                android:layout_below="@+id/lon"
+                android:layout_marginBottom="3dp"
+
+                android:background="#FFF" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+
+            <TextView
+                android:id="@+id/INF"
+                android:layout_width="wrap_content"
+                android:layout_height="45dp"
+                android:layout_alignParentStart="true"
+                android:layout_below="@+id/AAR"
+                android:layout_toStartOf="@+id/progressBar3"
+                android:text="Szerokość:"
+                android:textAppearance="?android:attr/textAppearance"
+                android:textColor="#FFF"
+                android:textSize="12sp" />
+
+            <TextView
+                android:id="@+id/lat_val"
+                android:layout_width="wrap_content"
+                android:layout_height="45dp"
+                android:text=""
+                android:textAppearance="?android:attr/textAppearance"
+                android:textColor="#FFF"
+                android:textSize="12sp" />
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="45dp"
+                android:orientation="horizontal">
+                <Button
+                    android:id="@+id/plus_lat"
+                    android:layout_width="45dp"
+                    android:layout_height="45dp"
+                    android:text="+"
+                    android:textSize="20sp"
+                    android:textStyle="bold"
+                    android:textColor="#FFF"/>
+                <Button
+                    android:id="@+id/minus_lat"
+                    android:layout_width="45dp"
+                    android:layout_height="45dp"
+                    android:text="-"
+                    android:textSize="20sp"
+                    android:textStyle="bold"
+                    android:textColor="#FFF"
+/>
+            </LinearLayout>
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            >
+
+            <TextView
+                android:id="@+id/AAI"
+                android:layout_width="wrap_content"
+                android:layout_height="45dp"
+                android:layout_alignParentStart="true"
+                android:layout_below="@+id/INF"
+                android:layout_toStartOf="@+id/progressBar4"
+                android:text="Długość:"
+                android:textAppearance="?android:attr/textAppearance"
+                android:textColor="#FFF"
+                android:textSize="12sp" />
+
+            <TextView
+                android:id="@+id/lon_val"
+                android:layout_width="wrap_content"
+                android:layout_height="45dp"
+                android:text=""
+                android:textAppearance="?android:attr/textAppearance"
+                android:textColor="#FFF"
+                android:textSize="12sp" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="45dp"
+                android:orientation="horizontal">
+                <Button
+                    android:id="@+id/plus_lon"
+                    android:layout_width="45dp"
+                    android:layout_height="45dp"
+                    android:text="+"
+                    android:textSize="20sp"
+                    android:textStyle="bold"
+                    android:textColor="#FFF"/>
+                <Button
+                    android:id="@+id/minus_lon"
+                    android:layout_width="45dp"
+                    android:layout_height="45dp"
+                    android:text="-"
+                    android:textSize="20sp"
+                    android:textColor="#FFF"
+                    android:textStyle="bold"/>
+            </LinearLayout>
+
+        </TableRow>
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            >
+
+            <TextView
+                android:id="@+id/heigh"
+                android:layout_width="wrap_content"
+                android:layout_height="45dp"
+                android:text="Wysokość:"
+                android:textAppearance="?android:attr/textAppearance"
+                android:textColor="#FFF"
+                android:textSize="12sp" />
+
+            <TextView
+                android:id="@+id/high_val"
+                android:layout_width="wrap_content"
+                android:layout_height="45dp"
+                android:text=""
+                android:textAppearance="?android:attr/textAppearance"
+                android:textColor="#FFF"
+                android:textSize="12sp" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal">
+
+                <Button
+                    android:id="@+id/plus_height"
+                    android:layout_width="45dp"
+                    android:layout_height="45dp"
+                    android:text="+"
+                    android:textSize="20sp"
+                    android:textStyle="bold"
+                    android:textColor="#FFF"/>
+                <Button
+                    android:id="@+id/minus_height"
+                    android:layout_width="45dp"
+                    android:layout_height="45dp"
+                    android:text="-"
+                    android:textSize="20sp"
+                    android:textStyle="bold"
+                    android:textColor="#FFF"
+                    />
+
+            </LinearLayout>
+
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+
+            <View
+                android:id="@+id/View2"
+                android:layout_width="match_parent"
+                android:layout_span="6"
+                android:layout_height="1dp"
+                android:layout_below="@+id/ART"
+                android:layout_marginBottom="3dp"
+                android:alpha="1"
+                android:background="#FFF" />
+        </TableRow>
+        <TableRow
+            android:id="@+id/last_row"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center">
+
+            <Button
+                android:id="@+id/task"
+                android:layout_width="80dp"
+                android:layout_height="60dp"
+                android:layout_below="@+id/View2"
+                android:text="OK"
+                android:textSize="8sp"
+                android:layout_gravity="center"/>
+
+            <Button
+                android:id="@+id/back"
+                android:layout_width="80dp"
+                android:layout_height="60dp"
+                android:layout_below="@+id/View2"
+                android:text="Back"
+                android:textSize="8sp"
+                android:layout_gravity="center"/>
+
+        </TableRow>
+    </TableLayout>
+</RelativeLayout>
