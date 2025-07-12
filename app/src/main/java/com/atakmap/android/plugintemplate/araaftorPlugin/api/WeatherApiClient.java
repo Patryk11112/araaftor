@@ -8,7 +8,7 @@ import java.net.URL;
 
 public class WeatherApiClient {
 
-    private static final String API_KEY = "05b786a8ebec4b3abd0101117250704";
+    private static final String API_KEY = "Your_API_key";
     private static final String API_URL = "https://api.weatherapi.com/v1/current.json";
 
 
