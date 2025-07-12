@@ -29,9 +29,6 @@ How to get started with ATAK extensions can be found [here](docs/first_time_in_A
 ## How to start
 The procedure for running ARAAFTOR is described in [README](docs/how_to_run.md) file.
 
-## Architecture
-For a project architecture, refer to its [README](docs/architecture.md) file.
-
 ## Showcase
 An example of using the ARAAFTOR extension can be found in [here](docs/showcase.md).
 
