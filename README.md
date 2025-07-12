@@ -22,6 +22,9 @@ ARAAFTOR is an extension designed for the ATAK application that supports situati
 - Device instability handling: automatic capture of 3 images when motion is detected.
 - Automatic selection of the best frame for detection.
 - Intuitive resizing and repositioning of GUI elements (grid, map, image).
+  
+## Using ATAK for the first time
+How to get started with ATAK extensions can be found [here](docs/first_time_in_ATAK.md).
 
 ## How to start
 The procedure for running ARAAFTOR is described in [README](docs/how_to_run.md) file.
