@@ -1,0 +1,212 @@
+com/atakmap/android/plugintemplate/araaftorPlugin/orientation/OrientationCalculator.java
+ com.atakmap.android.plugintemplate.araaftorPlugin.orientation.OrientationCalculator
+com/atakmap/android/plugintemplate/araaftorPlugin/Util.java
+ com.atakmap.android.plugintemplate.araaftorPlugin.Util
+com/atakmap/android/plugintemplate/araaftorPlugin/orientation/Vector4.java
+ com.atakmap.android.plugintemplate.araaftorPlugin.orientation.Vector4
+com/atakmap/android/plugintemplate/plugin/PluginTemplateTool.java
+ com.atakmap.android.plugintemplate.plugin.PluginTemplateTool
+com/atakmap/android/plugintemplate/araaftorPlugin/interfaces/DialogResultListener.java
+ com.atakmap.android.plugintemplate.araaftorPlugin.interfaces.DialogResultListener
+com/atakmap/android/plugintemplate/araaftorPlugin/orientation/NumberUtils.java
+ com.atakmap.android.plugintemplate.araaftorPlugin.orientation.NumberUtils
+com/atakmap/android/plugintemplate/araaftorPlugin/adapters/DetectObjectAdapter.java
+ com.atakmap.android.plugintemplate.araaftorPlugin.adapters.DetectObjectAdapter
+ com.atakmap.android.plugintemplate.araaftorPlugin.adapters.DetectObjectAdapter$OnItemClickListener
+ com.atakmap.android.plugintemplate.araaftorPlugin.adapters.DetectObjectAdapter$ViewHolder
+com/atakmap/android/plugintemplate/araaftorPlugin/orientation/Util.java
+ com.atakmap.android.plugintemplate.araaftorPlugin.orientation.Util
+com/atakmap/android/plugintemplate/plugin/PluginTemplateLifecycle.java
+ com.atakmap.android.plugintemplate.plugin.PluginTemplateLifecycle
+com/atakmap/android/plugintemplate/araaftorPlugin/DetectObject.java
+ com.atakmap.android.plugintemplate.araaftorPlugin.DetectObject
+com/atakmap/android/plugintemplate/detection/DetectorObject.java
+ com.atakmap.android.plugintemplate.detection.DetectorObject
+ com.atakmap.android.plugintemplate.detection.DetectorObject$DepthScalingOp
+com/atakmap/android/plugintemplate/plugin/PluginNativeLoader.java
+ com.atakmap.android.plugintemplate.plugin.PluginNativeLoader
+com/atakmap/android/plugintemplate/araaftorPlugin/orientation/Matrix4.java
+ com.atakmap.android.plugintemplate.araaftorPlugin.orientation.Matrix4
+com/atakmap/android/plugintemplate/araaftorPlugin/views/AbstractMcopDynamicView.java
+ com.atakmap.android.plugintemplate.araaftorPlugin.views.AbstractMcopDynamicView
+com/atakmap/android/plugintemplate/araaftorPlugin/interfaces/SymbolCacheListener.java
+ com.atakmap.android.plugintemplate.araaftorPlugin.interfaces.SymbolCacheListener
+com/atakmap/android/plugintemplate/araaftorPlugin/orientation/Vector3.java
+ com.atakmap.android.plugintemplate.araaftorPlugin.orientation.Vector3
+com/atakmap/android/plugintemplate/araaftorPlugin/views/LCDTextView.java
+ com.atakmap.android.plugintemplate.araaftorPlugin.views.LCDTextView
+com/atakmap/android/plugintemplate/araaftorPlugin/interfaces/AraaftorServiceListener.java
+ com.atakmap.android.plugintemplate.araaftorPlugin.interfaces.AraaftorServiceListener
+com/atakmap/android/plugintemplate/AraaftorMapComponent.java
+ com.atakmap.android.plugintemplate.AraaftorMapComponent
+com/atakmap/android/plugintemplate/araaftorPlugin/interfaces/IWebServiceListener.java
+ com.atakmap.android.plugintemplate.araaftorPlugin.interfaces.IWebServiceListener
+com/atakmap/android/plugintemplate/araaftorPlugin/CalculationCords.java
+ com.atakmap.android.plugintemplate.araaftorPlugin.CalculationCords
+com/atakmap/android/plugintemplate/plugin/BuildConfig.java
+ com.atakmap.android.plugintemplate.plugin.BuildConfig
+com/atakmap/android/plugintemplate/araaftorPlugin/db/DbHelper.java
+ com.atakmap.android.plugintemplate.araaftorPlugin.db.DbHelper
+com/atakmap/android/plugintemplate/araaftorPlugin/orientation/MathUtils.java
+ com.atakmap.android.plugintemplate.araaftorPlugin.orientation.MathUtils
+ com.atakmap.android.plugintemplate.araaftorPlugin.orientation.MathUtils$Atan2
+ com.atakmap.android.plugintemplate.araaftorPlugin.orientation.MathUtils$Cos
+ com.atakmap.android.plugintemplate.araaftorPlugin.orientation.MathUtils$Sin
+com/atakmap/android/plugintemplate/araaftorPlugin/api/WeatherApiClient.java
+ com.atakmap.android.plugintemplate.araaftorPlugin.api.WeatherApiClient
+com/atakmap/android/plugintemplate/araaftorPlugin/orientation/Matrix3.java
+ com.atakmap.android.plugintemplate.araaftorPlugin.orientation.Matrix3
+com/atakmap/android/plugintemplate/araaftorPlugin/signs/Symbol.java
+ com.atakmap.android.plugintemplate.araaftorPlugin.signs.Symbol
+com/atakmap/android/plugintemplate/araaftorPlugin/Unit.java
+ com.atakmap.android.plugintemplate.araaftorPlugin.Unit
+com/atakmap/android/plugintemplate/araaftorPlugin/scenario/Scenario.java
+ com.atakmap.android.plugintemplate.araaftorPlugin.scenario.Scenario
+com/atakmap/android/plugintemplate/araaftorPlugin/interfaces/UnitResultListener.java
+ com.atakmap.android.plugintemplate.araaftorPlugin.interfaces.UnitResultListener
+com/atakmap/android/plugintemplate/araaftorPlugin/orientation/Quaternion.java
+ com.atakmap.android.plugintemplate.araaftorPlugin.orientation.Quaternion
+com/atakmap/android/plugintemplate/araaftorPlugin/services/UnitService.java
+ com.atakmap.android.plugintemplate.araaftorPlugin.services.UnitService
+ com.atakmap.android.plugintemplate.araaftorPlugin.services.UnitService$1
+ com.atakmap.android.plugintemplate.araaftorPlugin.services.UnitService$10
+ com.atakmap.android.plugintemplate.araaftorPlugin.services.UnitService$11
+ com.atakmap.android.plugintemplate.araaftorPlugin.services.UnitService$12
+ com.atakmap.android.plugintemplate.araaftorPlugin.services.UnitService$2
+ com.atakmap.android.plugintemplate.araaftorPlugin.services.UnitService$3
+ com.atakmap.android.plugintemplate.araaftorPlugin.services.UnitService$4
+ com.atakmap.android.plugintemplate.araaftorPlugin.services.UnitService$5
+ com.atakmap.android.plugintemplate.araaftorPlugin.services.UnitService$6
+ com.atakmap.android.plugintemplate.araaftorPlugin.services.UnitService$7
+ com.atakmap.android.plugintemplate.araaftorPlugin.services.UnitService$8
+ com.atakmap.android.plugintemplate.araaftorPlugin.services.UnitService$9
+com/atakmap/android/plugintemplate/araaftorPlugin/interfaces/IScenarioServiceConnector.java
+ com.atakmap.android.plugintemplate.araaftorPlugin.interfaces.IScenarioServiceConnector
+com/atakmap/android/plugintemplate/araaftorPlugin/db/DB.java
+ com.atakmap.android.plugintemplate.araaftorPlugin.db.DB
+ com.atakmap.android.plugintemplate.araaftorPlugin.db.DB$DBException
+com/atakmap/android/plugintemplate/detection/MetaData.java
+ com.atakmap.android.plugintemplate.detection.MetaData
+com/atakmap/android/plugintemplate/araaftorPlugin/orientation/Vector2.java
+ com.atakmap.android.plugintemplate.araaftorPlugin.orientation.Vector2
+com/atakmap/android/plugintemplate/araaftorPlugin/views/LineCompassView.java
+ com.atakmap.android.plugintemplate.araaftorPlugin.views.LineCompassView
+com/atakmap/android/plugintemplate/araaftorPlugin/Filter.java
+ com.atakmap.android.plugintemplate.araaftorPlugin.Filter
+com/atakmap/android/plugintemplate/araaftorPlugin/api/GetWeatherDataTask.java
+ com.atakmap.android.plugintemplate.araaftorPlugin.api.GetWeatherDataTask
+com/atakmap/android/plugintemplate/araaftorPlugin/services/DialogService.java
+ com.atakmap.android.plugintemplate.araaftorPlugin.services.DialogService
+ com.atakmap.android.plugintemplate.araaftorPlugin.services.DialogService$1
+ com.atakmap.android.plugintemplate.araaftorPlugin.services.DialogService$10
+ com.atakmap.android.plugintemplate.araaftorPlugin.services.DialogService$10$1
+ com.atakmap.android.plugintemplate.araaftorPlugin.services.DialogService$11
+ com.atakmap.android.plugintemplate.araaftorPlugin.services.DialogService$11$1
+ com.atakmap.android.plugintemplate.araaftorPlugin.services.DialogService$12
+ com.atakmap.android.plugintemplate.araaftorPlugin.services.DialogService$13
+ com.atakmap.android.plugintemplate.araaftorPlugin.services.DialogService$14
+ com.atakmap.android.plugintemplate.araaftorPlugin.services.DialogService$15
+ com.atakmap.android.plugintemplate.araaftorPlugin.services.DialogService$2
+ com.atakmap.android.plugintemplate.araaftorPlugin.services.DialogService$3
+ com.atakmap.android.plugintemplate.araaftorPlugin.services.DialogService$4
+ com.atakmap.android.plugintemplate.araaftorPlugin.services.DialogService$5
+ com.atakmap.android.plugintemplate.araaftorPlugin.services.DialogService$6
+ com.atakmap.android.plugintemplate.araaftorPlugin.services.DialogService$7
+ com.atakmap.android.plugintemplate.araaftorPlugin.services.DialogService$8
+ com.atakmap.android.plugintemplate.araaftorPlugin.services.DialogService$9
+com/atakmap/android/plugintemplate/araaftorPlugin/interfaces/WeatherDataListener.java
+ com.atakmap.android.plugintemplate.araaftorPlugin.interfaces.WeatherDataListener
+com/atakmap/android/plugintemplate/araaftorPlugin/ElementsOnMap.java
+ com.atakmap.android.plugintemplate.araaftorPlugin.ElementsOnMap
+com/atakmap/android/plugintemplate/detection/BoundingBox.java
+ com.atakmap.android.plugintemplate.detection.BoundingBox
+com/atakmap/android/plugintemplate/araaftorPlugin/GeoObject.java
+ com.atakmap.android.plugintemplate.araaftorPlugin.GeoObject
+ com.atakmap.android.plugintemplate.araaftorPlugin.GeoObject$SideOfConflict
+com/atakmap/android/plugintemplate/araaftorPlugin/AraaftorMarker.java
+ com.atakmap.android.plugintemplate.araaftorPlugin.AraaftorMarker
+com/atakmap/android/plugintemplate/araaftorPlugin/araaftorMiniMap/AraaftorMinimap.java
+ com.atakmap.android.plugintemplate.araaftorPlugin.araaftorMiniMap.AraaftorMinimap
+ com.atakmap.android.plugintemplate.araaftorPlugin.araaftorMiniMap.AraaftorMinimap$1
+com/atakmap/android/plugintemplate/araaftorPlugin/services/SymbolContainer.java
+ com.atakmap.android.plugintemplate.araaftorPlugin.services.SymbolContainer
+com/atakmap/android/plugintemplate/araaftorPlugin/araaftorMiniMap/WMSTileSource.java
+ com.atakmap.android.plugintemplate.araaftorPlugin.araaftorMiniMap.WMSTileSource
+ com.atakmap.android.plugintemplate.araaftorPlugin.araaftorMiniMap.WMSTileSource$BoundingBox
+com/atakmap/android/plugintemplate/AraaftorDropDownReceiver.java
+ com.atakmap.android.plugintemplate.AraaftorDropDownReceiver
+ com.atakmap.android.plugintemplate.AraaftorDropDownReceiver$1
+ com.atakmap.android.plugintemplate.AraaftorDropDownReceiver$2
+com/atakmap/android/plugintemplate/araaftorPlugin/AraaftorOverlayManager.java
+ com.atakmap.android.plugintemplate.araaftorPlugin.AraaftorOverlayManager
+com/atakmap/android/plugintemplate/araaftorPlugin/MediatorApplication.java
+ com.atakmap.android.plugintemplate.araaftorPlugin.MediatorApplication
+ com.atakmap.android.plugintemplate.araaftorPlugin.MediatorApplication$1
+com/atakmap/android/plugintemplate/araaftorPlugin/services/AraaftorService.java
+ com.atakmap.android.plugintemplate.araaftorPlugin.services.AraaftorService
+ com.atakmap.android.plugintemplate.araaftorPlugin.services.AraaftorService$1
+ com.atakmap.android.plugintemplate.araaftorPlugin.services.AraaftorService$2
+ com.atakmap.android.plugintemplate.araaftorPlugin.services.AraaftorService$3
+ com.atakmap.android.plugintemplate.araaftorPlugin.services.AraaftorService$4
+com/atakmap/android/plugintemplate/araaftorPlugin/services/SymbolCacheService.java
+ com.atakmap.android.plugintemplate.araaftorPlugin.services.SymbolCacheService
+com/atakmap/android/plugintemplate/araaftorPlugin/araaftorMiniMap/GeoObjectsOverlay.java
+ com.atakmap.android.plugintemplate.araaftorPlugin.araaftorMiniMap.GeoObjectsOverlay
+com/atakmap/android/plugintemplate/araaftorPlugin/activities/AraaftorActivity.java
+ com.atakmap.android.plugintemplate.araaftorPlugin.activities.AraaftorActivity
+ com.atakmap.android.plugintemplate.araaftorPlugin.activities.AraaftorActivity$1
+ com.atakmap.android.plugintemplate.araaftorPlugin.activities.AraaftorActivity$1$1
+ com.atakmap.android.plugintemplate.araaftorPlugin.activities.AraaftorActivity$10
+ com.atakmap.android.plugintemplate.araaftorPlugin.activities.AraaftorActivity$11
+ com.atakmap.android.plugintemplate.araaftorPlugin.activities.AraaftorActivity$12
+ com.atakmap.android.plugintemplate.araaftorPlugin.activities.AraaftorActivity$13
+ com.atakmap.android.plugintemplate.araaftorPlugin.activities.AraaftorActivity$14
+ com.atakmap.android.plugintemplate.araaftorPlugin.activities.AraaftorActivity$15
+ com.atakmap.android.plugintemplate.araaftorPlugin.activities.AraaftorActivity$16
+ com.atakmap.android.plugintemplate.araaftorPlugin.activities.AraaftorActivity$16$1
+ com.atakmap.android.plugintemplate.araaftorPlugin.activities.AraaftorActivity$17
+ com.atakmap.android.plugintemplate.araaftorPlugin.activities.AraaftorActivity$17$1
+ com.atakmap.android.plugintemplate.araaftorPlugin.activities.AraaftorActivity$18
+ com.atakmap.android.plugintemplate.araaftorPlugin.activities.AraaftorActivity$19
+ com.atakmap.android.plugintemplate.araaftorPlugin.activities.AraaftorActivity$2
+ com.atakmap.android.plugintemplate.araaftorPlugin.activities.AraaftorActivity$20
+ com.atakmap.android.plugintemplate.araaftorPlugin.activities.AraaftorActivity$20$1
+ com.atakmap.android.plugintemplate.araaftorPlugin.activities.AraaftorActivity$21
+ com.atakmap.android.plugintemplate.araaftorPlugin.activities.AraaftorActivity$21$1
+ com.atakmap.android.plugintemplate.araaftorPlugin.activities.AraaftorActivity$22
+ com.atakmap.android.plugintemplate.araaftorPlugin.activities.AraaftorActivity$23
+ com.atakmap.android.plugintemplate.araaftorPlugin.activities.AraaftorActivity$23$1
+ com.atakmap.android.plugintemplate.araaftorPlugin.activities.AraaftorActivity$24
+ com.atakmap.android.plugintemplate.araaftorPlugin.activities.AraaftorActivity$25
+ com.atakmap.android.plugintemplate.araaftorPlugin.activities.AraaftorActivity$26
+ com.atakmap.android.plugintemplate.araaftorPlugin.activities.AraaftorActivity$27
+ com.atakmap.android.plugintemplate.araaftorPlugin.activities.AraaftorActivity$28
+ com.atakmap.android.plugintemplate.araaftorPlugin.activities.AraaftorActivity$29
+ com.atakmap.android.plugintemplate.araaftorPlugin.activities.AraaftorActivity$3
+ com.atakmap.android.plugintemplate.araaftorPlugin.activities.AraaftorActivity$3$1
+ com.atakmap.android.plugintemplate.araaftorPlugin.activities.AraaftorActivity$30
+ com.atakmap.android.plugintemplate.araaftorPlugin.activities.AraaftorActivity$31
+ com.atakmap.android.plugintemplate.araaftorPlugin.activities.AraaftorActivity$32
+ com.atakmap.android.plugintemplate.araaftorPlugin.activities.AraaftorActivity$33
+ com.atakmap.android.plugintemplate.araaftorPlugin.activities.AraaftorActivity$34
+ com.atakmap.android.plugintemplate.araaftorPlugin.activities.AraaftorActivity$35
+ com.atakmap.android.plugintemplate.araaftorPlugin.activities.AraaftorActivity$36
+ com.atakmap.android.plugintemplate.araaftorPlugin.activities.AraaftorActivity$37
+ com.atakmap.android.plugintemplate.araaftorPlugin.activities.AraaftorActivity$38
+ com.atakmap.android.plugintemplate.araaftorPlugin.activities.AraaftorActivity$39
+ com.atakmap.android.plugintemplate.araaftorPlugin.activities.AraaftorActivity$4
+ com.atakmap.android.plugintemplate.araaftorPlugin.activities.AraaftorActivity$40
+ com.atakmap.android.plugintemplate.araaftorPlugin.activities.AraaftorActivity$41
+ com.atakmap.android.plugintemplate.araaftorPlugin.activities.AraaftorActivity$42
+ com.atakmap.android.plugintemplate.araaftorPlugin.activities.AraaftorActivity$43
+ com.atakmap.android.plugintemplate.araaftorPlugin.activities.AraaftorActivity$43$1
+ com.atakmap.android.plugintemplate.araaftorPlugin.activities.AraaftorActivity$5
+ com.atakmap.android.plugintemplate.araaftorPlugin.activities.AraaftorActivity$6
+ com.atakmap.android.plugintemplate.araaftorPlugin.activities.AraaftorActivity$7
+ com.atakmap.android.plugintemplate.araaftorPlugin.activities.AraaftorActivity$8
+ com.atakmap.android.plugintemplate.araaftorPlugin.activities.AraaftorActivity$9
+ com.atakmap.android.plugintemplate.araaftorPlugin.activities.AraaftorActivity$CameraDataListener
+ com.atakmap.android.plugintemplate.araaftorPlugin.activities.AraaftorActivity$CameraDataReceiver
+ com.atakmap.android.plugintemplate.araaftorPlugin.activities.AraaftorActivity$DeleteEventDataListener
+ com.atakmap.android.plugintemplate.araaftorPlugin.activities.AraaftorActivity$DeleteEventDataReceiver
+ com.atakmap.android.plugintemplate.araaftorPlugin.activities.AraaftorActivity$DetectionCallback

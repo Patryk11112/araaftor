@@ -1,0 +1,232 @@
+com/atakmap/android/plugintemplate/pl/orientation/Quaternion.java
+ com.atakmap.android.plugintemplate.pl.orientation.Quaternion
+com/atakmap/android/plugintemplate/pl/db/DB.java
+ com.atakmap.android.plugintemplate.pl.db.DB
+ com.atakmap.android.plugintemplate.pl.db.DB$DBException
+com/atakmap/android/plugintemplate/pl/connection/encryption/AESEncryptor.java
+ com.atakmap.android.plugintemplate.pl.connection.encryption.AESEncryptor
+com/atakmap/android/plugintemplate/pl/GeoObject.java
+ com.atakmap.android.plugintemplate.pl.GeoObject
+ com.atakmap.android.plugintemplate.pl.GeoObject$SideOfConflict
+com/atakmap/android/plugintemplate/pl/Filter.java
+ com.atakmap.android.plugintemplate.pl.Filter
+com/atakmap/android/plugintemplate/pl/AROverlayManager.java
+ com.atakmap.android.plugintemplate.pl.AROverlayManager
+com/atakmap/android/plugintemplate/plugin/PluginTemplateTool.java
+ com.atakmap.android.plugintemplate.plugin.PluginTemplateTool
+com/atakmap/android/plugintemplate/pl/connection/models/LocationMessage.java
+ com.atakmap.android.plugintemplate.pl.connection.models.LocationMessage
+com/atakmap/android/plugintemplate/pl/connection/models/Localization.java
+ com.atakmap.android.plugintemplate.pl.connection.models.Localization
+com/atakmap/android/plugintemplate/pl/orientation/Matrix4.java
+ com.atakmap.android.plugintemplate.pl.orientation.Matrix4
+com/atakmap/android/plugintemplate/pl/services/SameService.java
+ com.atakmap.android.plugintemplate.pl.services.SameService
+ com.atakmap.android.plugintemplate.pl.services.SameService$1
+ com.atakmap.android.plugintemplate.pl.services.SameService$2
+ com.atakmap.android.plugintemplate.pl.services.SameService$3
+ com.atakmap.android.plugintemplate.pl.services.SameService$4
+com/atakmap/android/plugintemplate/pl/orientation/MathUtils.java
+ com.atakmap.android.plugintemplate.pl.orientation.MathUtils
+ com.atakmap.android.plugintemplate.pl.orientation.MathUtils$Atan2
+ com.atakmap.android.plugintemplate.pl.orientation.MathUtils$Cos
+ com.atakmap.android.plugintemplate.pl.orientation.MathUtils$Sin
+com/atakmap/android/plugintemplate/pl/dto/UserDTO.java
+ com.atakmap.android.plugintemplate.pl.dto.UserDTO
+com/atakmap/android/plugintemplate/pl/location/LocationConnection.java
+ com.atakmap.android.plugintemplate.pl.location.LocationConnection
+com/atakmap/android/plugintemplate/pl/db/DbHelper.java
+ com.atakmap.android.plugintemplate.pl.db.DbHelper
+com/atakmap/android/plugintemplate/pl/dto/TemplateListElementDTO.java
+ com.atakmap.android.plugintemplate.pl.dto.TemplateListElementDTO
+com/atakmap/android/plugintemplate/pl/MediatorApplication.java
+ com.atakmap.android.plugintemplate.pl.MediatorApplication
+ com.atakmap.android.plugintemplate.pl.MediatorApplication$1
+com/atakmap/android/plugintemplate/pl/dto/Marshaller.java
+ com.atakmap.android.plugintemplate.pl.dto.Marshaller
+com/atakmap/android/plugintemplate/pl/api/GetWeatherDataTask.java
+ com.atakmap.android.plugintemplate.pl.api.GetWeatherDataTask
+com/atakmap/android/plugintemplate/YOLO/DetectorObject.java
+ com.atakmap.android.plugintemplate.YOLO.DetectorObject
+ com.atakmap.android.plugintemplate.YOLO.DetectorObject$DepthScalingOp
+com/atakmap/android/plugintemplate/pl/interfaces/WeatherDataListener.java
+ com.atakmap.android.plugintemplate.pl.interfaces.WeatherDataListener
+com/atakmap/android/plugintemplate/depthDetect/CalculateDistance.java
+ com.atakmap.android.plugintemplate.depthDetect.CalculateDistance
+com/atakmap/android/plugintemplate/pl/connection/models/Location.java
+ com.atakmap.android.plugintemplate.pl.connection.models.Location
+com/atakmap/android/plugintemplate/pl/connection/models/CivilianMessage.java
+ com.atakmap.android.plugintemplate.pl.connection.models.CivilianMessage
+com/atakmap/android/plugintemplate/pl/Unit.java
+ com.atakmap.android.plugintemplate.pl.Unit
+com/atakmap/android/plugintemplate/pl/api/WeatherApiClient.java
+ com.atakmap.android.plugintemplate.pl.api.WeatherApiClient
+com/atakmap/android/plugintemplate/pl/signs/Symbol.java
+ com.atakmap.android.plugintemplate.pl.signs.Symbol
+com/atakmap/android/plugintemplate/pl/connection/ConnectionListener.java
+ com.atakmap.android.plugintemplate.pl.connection.ConnectionListener
+com/atakmap/android/plugintemplate/pl/services/SymbolCacheService.java
+ com.atakmap.android.plugintemplate.pl.services.SymbolCacheService
+com/atakmap/android/plugintemplate/plugin/PluginNativeLoader.java
+ com.atakmap.android.plugintemplate.plugin.PluginNativeLoader
+com/atakmap/android/plugintemplate/activities/MraiActivity.java
+ com.atakmap.android.plugintemplate.activities.MraiActivity
+ com.atakmap.android.plugintemplate.activities.MraiActivity$1
+ com.atakmap.android.plugintemplate.activities.MraiActivity$1$1
+ com.atakmap.android.plugintemplate.activities.MraiActivity$10
+ com.atakmap.android.plugintemplate.activities.MraiActivity$11
+ com.atakmap.android.plugintemplate.activities.MraiActivity$12
+ com.atakmap.android.plugintemplate.activities.MraiActivity$12$1
+ com.atakmap.android.plugintemplate.activities.MraiActivity$13
+ com.atakmap.android.plugintemplate.activities.MraiActivity$13$1
+ com.atakmap.android.plugintemplate.activities.MraiActivity$14
+ com.atakmap.android.plugintemplate.activities.MraiActivity$15
+ com.atakmap.android.plugintemplate.activities.MraiActivity$16
+ com.atakmap.android.plugintemplate.activities.MraiActivity$17
+ com.atakmap.android.plugintemplate.activities.MraiActivity$17$1
+ com.atakmap.android.plugintemplate.activities.MraiActivity$18
+ com.atakmap.android.plugintemplate.activities.MraiActivity$19
+ com.atakmap.android.plugintemplate.activities.MraiActivity$2
+ com.atakmap.android.plugintemplate.activities.MraiActivity$2$1
+ com.atakmap.android.plugintemplate.activities.MraiActivity$20
+ com.atakmap.android.plugintemplate.activities.MraiActivity$21
+ com.atakmap.android.plugintemplate.activities.MraiActivity$22
+ com.atakmap.android.plugintemplate.activities.MraiActivity$23
+ com.atakmap.android.plugintemplate.activities.MraiActivity$24
+ com.atakmap.android.plugintemplate.activities.MraiActivity$25
+ com.atakmap.android.plugintemplate.activities.MraiActivity$26
+ com.atakmap.android.plugintemplate.activities.MraiActivity$27
+ com.atakmap.android.plugintemplate.activities.MraiActivity$28
+ com.atakmap.android.plugintemplate.activities.MraiActivity$29
+ com.atakmap.android.plugintemplate.activities.MraiActivity$3
+ com.atakmap.android.plugintemplate.activities.MraiActivity$30
+ com.atakmap.android.plugintemplate.activities.MraiActivity$31
+ com.atakmap.android.plugintemplate.activities.MraiActivity$32
+ com.atakmap.android.plugintemplate.activities.MraiActivity$33
+ com.atakmap.android.plugintemplate.activities.MraiActivity$34
+ com.atakmap.android.plugintemplate.activities.MraiActivity$35
+ com.atakmap.android.plugintemplate.activities.MraiActivity$36
+ com.atakmap.android.plugintemplate.activities.MraiActivity$37
+ com.atakmap.android.plugintemplate.activities.MraiActivity$37$1
+ com.atakmap.android.plugintemplate.activities.MraiActivity$4
+ com.atakmap.android.plugintemplate.activities.MraiActivity$5
+ com.atakmap.android.plugintemplate.activities.MraiActivity$6
+ com.atakmap.android.plugintemplate.activities.MraiActivity$7
+ com.atakmap.android.plugintemplate.activities.MraiActivity$8
+ com.atakmap.android.plugintemplate.activities.MraiActivity$9
+ com.atakmap.android.plugintemplate.activities.MraiActivity$CameraDataListener
+ com.atakmap.android.plugintemplate.activities.MraiActivity$CameraDataReceiver
+ com.atakmap.android.plugintemplate.activities.MraiActivity$DeleteEventDataListener
+ com.atakmap.android.plugintemplate.activities.MraiActivity$DeleteEventDataReceiver
+ com.atakmap.android.plugintemplate.activities.MraiActivity$DetectionCallback
+com/atakmap/android/plugintemplate/pl/ARMarker.java
+ com.atakmap.android.plugintemplate.pl.ARMarker
+com/atakmap/android/plugintemplate/pl/ar/WMSTileSource.java
+ com.atakmap.android.plugintemplate.pl.ar.WMSTileSource
+ com.atakmap.android.plugintemplate.pl.ar.WMSTileSource$BoundingBox
+com/atakmap/android/plugintemplate/pl/views/LineCompassView.java
+ com.atakmap.android.plugintemplate.pl.views.LineCompassView
+com/atakmap/android/plugintemplate/pl/dto/GeoObjectDTO.java
+ com.atakmap.android.plugintemplate.pl.dto.GeoObjectDTO
+com/atakmap/android/plugintemplate/pl/connection/models/WeatherMessage.java
+ com.atakmap.android.plugintemplate.pl.connection.models.WeatherMessage
+ com.atakmap.android.plugintemplate.pl.connection.models.WeatherMessage$Coordinates
+ com.atakmap.android.plugintemplate.pl.connection.models.WeatherMessage$Weather
+com/atakmap/android/plugintemplate/pl/services/SymbolContainer.java
+ com.atakmap.android.plugintemplate.pl.services.SymbolContainer
+com/atakmap/android/plugintemplate/pl/ar/GeoObjectsOverlay.java
+ com.atakmap.android.plugintemplate.pl.ar.GeoObjectsOverlay
+com/atakmap/android/plugintemplate/plugin/BuildConfig.java
+ com.atakmap.android.plugintemplate.plugin.BuildConfig
+com/atakmap/android/plugintemplate/pl/dto/SoapObjectMarshaller.java
+ com.atakmap.android.plugintemplate.pl.dto.SoapObjectMarshaller
+com/atakmap/android/plugintemplate/pl/connection/Connection.java
+ com.atakmap.android.plugintemplate.pl.connection.Connection
+com/atakmap/android/plugintemplate/pl/orientation/Vector2.java
+ com.atakmap.android.plugintemplate.pl.orientation.Vector2
+com/atakmap/android/plugintemplate/pl/interfaces/IScenarioServiceConnector.java
+ com.atakmap.android.plugintemplate.pl.interfaces.IScenarioServiceConnector
+com/atakmap/android/plugintemplate/pl/scenario/Scenario.java
+ com.atakmap.android.plugintemplate.pl.scenario.Scenario
+com/atakmap/android/plugintemplate/depthDetect/MidasNet.java
+ com.atakmap.android.plugintemplate.depthDetect.MidasNet
+ com.atakmap.android.plugintemplate.depthDetect.MidasNet$DepthScalingOp
+com/atakmap/android/plugintemplate/pl/orientation/NumberUtils.java
+ com.atakmap.android.plugintemplate.pl.orientation.NumberUtils
+com/atakmap/android/plugintemplate/pl/dto/PointDTO.java
+ com.atakmap.android.plugintemplate.pl.dto.PointDTO
+com/atakmap/android/plugintemplate/pl/connection/models/SmartCityMessage.java
+ com.atakmap.android.plugintemplate.pl.connection.models.SmartCityMessage
+com/atakmap/android/plugintemplate/pl/orientation/Matrix3.java
+ com.atakmap.android.plugintemplate.pl.orientation.Matrix3
+com/atakmap/android/plugintemplate/pl/connection/models/TrafficLocation.java
+ com.atakmap.android.plugintemplate.pl.connection.models.TrafficLocation
+com/atakmap/android/plugintemplate/pl/orientation/Vector3.java
+ com.atakmap.android.plugintemplate.pl.orientation.Vector3
+com/atakmap/android/plugintemplate/pl/connection/MqttBroker.java
+ com.atakmap.android.plugintemplate.pl.connection.MqttBroker
+com/atakmap/android/plugintemplate/PluginTemplateDropDownReceiver.java
+ com.atakmap.android.plugintemplate.PluginTemplateDropDownReceiver
+ com.atakmap.android.plugintemplate.PluginTemplateDropDownReceiver$1
+ com.atakmap.android.plugintemplate.PluginTemplateDropDownReceiver$2
+com/atakmap/android/plugintemplate/pl/connection/PositionMessage.java
+ com.atakmap.android.plugintemplate.pl.connection.PositionMessage
+com/atakmap/android/plugintemplate/pl/interfaces/mrAIServiceListener.java
+ com.atakmap.android.plugintemplate.pl.interfaces.mrAIServiceListener
+com/atakmap/android/plugintemplate/pl/connection/encryption/Decryptor.java
+ com.atakmap.android.plugintemplate.pl.connection.encryption.Decryptor
+com/atakmap/android/plugintemplate/PluginTemplateMapComponent.java
+ com.atakmap.android.plugintemplate.PluginTemplateMapComponent
+com/atakmap/android/plugintemplate/pl/views/AbstractMcopDynamicView.java
+ com.atakmap.android.plugintemplate.pl.views.AbstractMcopDynamicView
+com/atakmap/android/plugintemplate/pl/detectedInf.java
+ com.atakmap.android.plugintemplate.pl.detectedInf
+ com.atakmap.android.plugintemplate.pl.detectedInf$1
+com/atakmap/android/plugintemplate/pl/CalculationCords.java
+ com.atakmap.android.plugintemplate.pl.CalculationCords
+com/atakmap/android/plugintemplate/pl/orientation/OrientationCalculator.java
+ com.atakmap.android.plugintemplate.pl.orientation.OrientationCalculator
+com/atakmap/android/plugintemplate/pl/orientation/Util.java
+ com.atakmap.android.plugintemplate.pl.orientation.Util
+com/atakmap/android/plugintemplate/pl/connection/models/TrafficMessage.java
+ com.atakmap.android.plugintemplate.pl.connection.models.TrafficMessage
+com/atakmap/android/plugintemplate/YOLO/BoundingBox.java
+ com.atakmap.android.plugintemplate.YOLO.BoundingBox
+com/atakmap/android/plugintemplate/pl/adapters/DetectObjectAdapter.java
+ com.atakmap.android.plugintemplate.pl.adapters.DetectObjectAdapter
+ com.atakmap.android.plugintemplate.pl.adapters.DetectObjectAdapter$OnItemClickListener
+ com.atakmap.android.plugintemplate.pl.adapters.DetectObjectAdapter$ViewHolder
+com/atakmap/android/plugintemplate/activities/ElementsOnMap.java
+ com.atakmap.android.plugintemplate.activities.ElementsOnMap
+com/atakmap/android/plugintemplate/pl/connection/encryption/Encryptor.java
+ com.atakmap.android.plugintemplate.pl.connection.encryption.Encryptor
+com/atakmap/android/plugintemplate/pl/connection/MqttConnection.java
+ com.atakmap.android.plugintemplate.pl.connection.MqttConnection
+ com.atakmap.android.plugintemplate.pl.connection.MqttConnection$1
+com/atakmap/android/plugintemplate/pl/ar/ARMinimap.java
+ com.atakmap.android.plugintemplate.pl.ar.ARMinimap
+ com.atakmap.android.plugintemplate.pl.ar.ARMinimap$1
+com/atakmap/android/plugintemplate/pl/interfaces/SymbolCacheListener.java
+ com.atakmap.android.plugintemplate.pl.interfaces.SymbolCacheListener
+com/atakmap/android/plugintemplate/pl/orientation/Vector4.java
+ com.atakmap.android.plugintemplate.pl.orientation.Vector4
+com/atakmap/android/plugintemplate/plugin/PluginTemplateLifecycle.java
+ com.atakmap.android.plugintemplate.plugin.PluginTemplateLifecycle
+com/atakmap/android/plugintemplate/pl/connection/encryption/AESDecryptor.java
+ com.atakmap.android.plugintemplate.pl.connection.encryption.AESDecryptor
+com/atakmap/android/plugintemplate/pl/DetectObject.java
+ com.atakmap.android.plugintemplate.pl.DetectObject
+com/atakmap/android/plugintemplate/pl/interfaces/IWebServiceListener.java
+ com.atakmap.android.plugintemplate.pl.interfaces.IWebServiceListener
+com/atakmap/android/plugintemplate/pl/views/LCDTextView.java
+ com.atakmap.android.plugintemplate.pl.views.LCDTextView
+com/atakmap/android/plugintemplate/pl/Util.java
+ com.atakmap.android.plugintemplate.pl.Util
+com/atakmap/android/plugintemplate/pl/connection/PositionExchange.java
+ com.atakmap.android.plugintemplate.pl.connection.PositionExchange
+ com.atakmap.android.plugintemplate.pl.connection.PositionExchange$1
+ com.atakmap.android.plugintemplate.pl.connection.PositionExchange$2
+ com.atakmap.android.plugintemplate.pl.connection.PositionExchange$PositionReceiver
+ com.atakmap.android.plugintemplate.pl.connection.PositionExchange$PositionSupplier
+com/atakmap/android/plugintemplate/YOLO/MetaData.java
+ com.atakmap.android.plugintemplate.YOLO.MetaData

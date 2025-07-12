@@ -1,0 +1,355 @@
+-- Merging decision tree log ---
+meta-data#plugin-api
+INJECTED from C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:42:9-44:49
+	android:value
+		INJECTED from C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:44:13-46
+	android:name
+		ADDED from C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:43:13-38
+manifest
+ADDED from C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:1:1-69:12
+INJECTED from C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:1:1-69:12
+INJECTED from C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:1:1-69:12
+INJECTED from C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:1:1-69:12
+MERGED from [com.android.support:gridlayout-v7:26.1.0] C:\Users\Patryk\.gradle\caches\transforms-3\c742a7657c8b23edddc99b00136c9c1a\transformed\gridlayout-v7-26.1.0\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:design:26.1.0] C:\Users\Patryk\.gradle\caches\transforms-3\58995126e91b3c9d03a1e95645b6cbe7\transformed\design-26.1.0\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Patryk\.gradle\caches\transforms-3\ab5fda52ba574b69b641080b17e69286\transformed\appcompat-v7-26.1.0\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Patryk\.gradle\caches\transforms-3\f4835fe70912b1d675084996733c5435\transformed\transition-26.1.0\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Patryk\.gradle\caches\transforms-3\cd0a1c00db02df2afc70de753f096236\transformed\support-v4-26.1.0\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Patryk\.gradle\caches\transforms-3\072410cc63700058a295aec6fb8110c6\transformed\constraint-layout-1.0.2\AndroidManifest.xml:2:1-11:12
+MERGED from [com.getbase:floatingactionbutton:1.10.1] C:\Users\Patryk\.gradle\caches\transforms-3\b607034f3197fbc6a2da19583f5e55f7\transformed\floatingactionbutton-1.10.1\AndroidManifest.xml:2:1-14:12
+MERGED from [org.osmdroid:osmdroid-android:6.0.3] C:\Users\Patryk\.gradle\caches\transforms-3\7a99a902e428394bc280c27d3feb3237\transformed\osmdroid-android-6.0.3\AndroidManifest.xml:2:1-29:12
+MERGED from [org.tensorflow:tensorflow-lite-support:0.4.4] C:\Users\Patryk\.gradle\caches\transforms-3\93d8e6a8252c149fd51e61785485ede1\transformed\tensorflow-lite-support-0.4.4\AndroidManifest.xml:2:1-5:12
+MERGED from [org.tensorflow:tensorflow-lite:2.14.0] C:\Users\Patryk\.gradle\caches\transforms-3\89a42247c89e52cc2ac7694ad4f398cb\transformed\tensorflow-lite-2.14.0\AndroidManifest.xml:2:1-11:12
+MERGED from [org.tensorflow:tensorflow-lite-gpu:2.14.0] C:\Users\Patryk\.gradle\caches\transforms-3\cbcad19e61caf78f58337719452c379e\transformed\tensorflow-lite-gpu-2.14.0\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Patryk\.gradle\caches\transforms-3\5d239e09b058d33b37b8942be02623c0\transformed\support-fragment-26.1.0\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Patryk\.gradle\caches\transforms-3\2c10ffa3b6b6516a6914a64d3770c1e3\transformed\animated-vector-drawable-26.1.0\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Patryk\.gradle\caches\transforms-3\a1f4f28f187614f3e63d8508488584d6\transformed\recyclerview-v7-26.1.0\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Patryk\.gradle\caches\transforms-3\c6a43cd9782f1d97799c9733384b7ab9\transformed\support-core-ui-26.1.0\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Patryk\.gradle\caches\transforms-3\40e45329c852e23f059cadb3c45dc14d\transformed\support-media-compat-26.1.0\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Patryk\.gradle\caches\transforms-3\71a040f15c00fe6a7fffdc9f02cb3ecf\transformed\support-core-utils-26.1.0\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Patryk\.gradle\caches\transforms-3\3d459bf6201fdca3d890e1c9ff63679d\transformed\support-vector-drawable-26.1.0\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Patryk\.gradle\caches\transforms-3\bde2bd80b5e07f81f72122bc9014cc6e\transformed\support-compat-26.1.0\AndroidManifest.xml:17:1-31:12
+MERGED from [org.tensorflow:tensorflow-lite-support-api:0.4.4] C:\Users\Patryk\.gradle\caches\transforms-3\9a9fbb18dbbc0cc1e759a2bea2ddfe57\transformed\tensorflow-lite-support-api-0.4.4\AndroidManifest.xml:2:1-5:12
+MERGED from [org.tensorflow:tensorflow-lite-api:2.14.0] C:\Users\Patryk\.gradle\caches\transforms-3\60267cf47c95a9815dd0442ee56df830\transformed\tensorflow-lite-api-2.14.0\AndroidManifest.xml:2:1-11:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Patryk\.gradle\caches\transforms-3\48f79f9d7f9f036f3aa608c850bf4451\transformed\runtime-1.0.0\AndroidManifest.xml:17:1-30:12
+MERGED from [com.google.android.odml:image:1.0.0-beta1] C:\Users\Patryk\.gradle\caches\transforms-3\84fba1f6258fe8e74a0b2d3421f95149\transformed\image-1.0.0-beta1\AndroidManifest.xml:2:1-9:12
+INJECTED from C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:1:1-69:12
+INJECTED from C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:1:1-69:12
+INJECTED from C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:1:1-69:12
+	package
+		ADDED from C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:3:5-56
+		INJECTED from C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:1:1-69:12
+		INJECTED from C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:2:5-51
+	android:versionCode
+		INJECTED from C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:1:1-69:12
+		INJECTED from C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:1:11-69
+	tools:ignore
+		ADDED from C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:4:5-44
+uses-permission#android.permission.BLUETOOTH
+ADDED from C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:5:5-68
+	android:name
+		ADDED from C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:5:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:6:5-74
+	android:name
+		ADDED from C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:6:22-71
+uses-permission#android.permission.CHANGE_WIFI_MULTICAST_STATE
+ADDED from C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:7:5-86
+	android:name
+		ADDED from C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:7:22-83
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:8:5-67
+	android:name
+		ADDED from C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:8:22-64
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:9:5-76
+	android:name
+		ADDED from C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:9:22-73
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:10:22-76
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:11:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:12:22-78
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:13:5-65
+	android:name
+		ADDED from C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:13:22-62
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:14:5-81
+	android:name
+		ADDED from C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:14:22-78
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:15:5-68
+	android:name
+		ADDED from C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:15:22-65
+uses-permission#android.permission.VIBRATE
+ADDED from C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:16:5-66
+	android:name
+		ADDED from C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:16:22-63
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:18:5-71
+	android:name
+		ADDED from C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:18:22-68
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:19:5-79
+	android:name
+		ADDED from C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:19:22-76
+uses-permission#android.permission.DISABLE_KEYGUARD
+ADDED from C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:23:5-75
+	android:name
+		ADDED from C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:23:22-72
+uses-feature#android.hardware.camera
+ADDED from C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:27:5-60
+	android:name
+		ADDED from C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:27:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:28:5-70
+	android:name
+		ADDED from C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:28:19-67
+uses-feature#android.software.leanback
+ADDED from C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:29:5-31:35
+	android:required
+		ADDED from C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:31:9-32
+	android:name
+		ADDED from C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:30:9-49
+application
+ADDED from C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:33:5-67:19
+MERGED from [com.android.support:gridlayout-v7:26.1.0] C:\Users\Patryk\.gradle\caches\transforms-3\c742a7657c8b23edddc99b00136c9c1a\transformed\gridlayout-v7-26.1.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:gridlayout-v7:26.1.0] C:\Users\Patryk\.gradle\caches\transforms-3\c742a7657c8b23edddc99b00136c9c1a\transformed\gridlayout-v7-26.1.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:design:26.1.0] C:\Users\Patryk\.gradle\caches\transforms-3\58995126e91b3c9d03a1e95645b6cbe7\transformed\design-26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:26.1.0] C:\Users\Patryk\.gradle\caches\transforms-3\58995126e91b3c9d03a1e95645b6cbe7\transformed\design-26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Patryk\.gradle\caches\transforms-3\ab5fda52ba574b69b641080b17e69286\transformed\appcompat-v7-26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Patryk\.gradle\caches\transforms-3\ab5fda52ba574b69b641080b17e69286\transformed\appcompat-v7-26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Patryk\.gradle\caches\transforms-3\f4835fe70912b1d675084996733c5435\transformed\transition-26.1.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Patryk\.gradle\caches\transforms-3\f4835fe70912b1d675084996733c5435\transformed\transition-26.1.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Patryk\.gradle\caches\transforms-3\cd0a1c00db02df2afc70de753f096236\transformed\support-v4-26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Patryk\.gradle\caches\transforms-3\cd0a1c00db02df2afc70de753f096236\transformed\support-v4-26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Patryk\.gradle\caches\transforms-3\072410cc63700058a295aec6fb8110c6\transformed\constraint-layout-1.0.2\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Patryk\.gradle\caches\transforms-3\072410cc63700058a295aec6fb8110c6\transformed\constraint-layout-1.0.2\AndroidManifest.xml:9:5-20
+MERGED from [com.getbase:floatingactionbutton:1.10.1] C:\Users\Patryk\.gradle\caches\transforms-3\b607034f3197fbc6a2da19583f5e55f7\transformed\floatingactionbutton-1.10.1\AndroidManifest.xml:12:5-20
+MERGED from [com.getbase:floatingactionbutton:1.10.1] C:\Users\Patryk\.gradle\caches\transforms-3\b607034f3197fbc6a2da19583f5e55f7\transformed\floatingactionbutton-1.10.1\AndroidManifest.xml:12:5-20
+MERGED from [org.tensorflow:tensorflow-lite:2.14.0] C:\Users\Patryk\.gradle\caches\transforms-3\89a42247c89e52cc2ac7694ad4f398cb\transformed\tensorflow-lite-2.14.0\AndroidManifest.xml:9:5-20
+MERGED from [org.tensorflow:tensorflow-lite:2.14.0] C:\Users\Patryk\.gradle\caches\transforms-3\89a42247c89e52cc2ac7694ad4f398cb\transformed\tensorflow-lite-2.14.0\AndroidManifest.xml:9:5-20
+MERGED from [org.tensorflow:tensorflow-lite-gpu:2.14.0] C:\Users\Patryk\.gradle\caches\transforms-3\cbcad19e61caf78f58337719452c379e\transformed\tensorflow-lite-gpu-2.14.0\AndroidManifest.xml:9:5-20
+MERGED from [org.tensorflow:tensorflow-lite-gpu:2.14.0] C:\Users\Patryk\.gradle\caches\transforms-3\cbcad19e61caf78f58337719452c379e\transformed\tensorflow-lite-gpu-2.14.0\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Patryk\.gradle\caches\transforms-3\5d239e09b058d33b37b8942be02623c0\transformed\support-fragment-26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Patryk\.gradle\caches\transforms-3\5d239e09b058d33b37b8942be02623c0\transformed\support-fragment-26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Patryk\.gradle\caches\transforms-3\2c10ffa3b6b6516a6914a64d3770c1e3\transformed\animated-vector-drawable-26.1.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Patryk\.gradle\caches\transforms-3\2c10ffa3b6b6516a6914a64d3770c1e3\transformed\animated-vector-drawable-26.1.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Patryk\.gradle\caches\transforms-3\a1f4f28f187614f3e63d8508488584d6\transformed\recyclerview-v7-26.1.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Patryk\.gradle\caches\transforms-3\a1f4f28f187614f3e63d8508488584d6\transformed\recyclerview-v7-26.1.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Patryk\.gradle\caches\transforms-3\c6a43cd9782f1d97799c9733384b7ab9\transformed\support-core-ui-26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Patryk\.gradle\caches\transforms-3\c6a43cd9782f1d97799c9733384b7ab9\transformed\support-core-ui-26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Patryk\.gradle\caches\transforms-3\40e45329c852e23f059cadb3c45dc14d\transformed\support-media-compat-26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Patryk\.gradle\caches\transforms-3\40e45329c852e23f059cadb3c45dc14d\transformed\support-media-compat-26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Patryk\.gradle\caches\transforms-3\71a040f15c00fe6a7fffdc9f02cb3ecf\transformed\support-core-utils-26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Patryk\.gradle\caches\transforms-3\71a040f15c00fe6a7fffdc9f02cb3ecf\transformed\support-core-utils-26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Patryk\.gradle\caches\transforms-3\3d459bf6201fdca3d890e1c9ff63679d\transformed\support-vector-drawable-26.1.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Patryk\.gradle\caches\transforms-3\3d459bf6201fdca3d890e1c9ff63679d\transformed\support-vector-drawable-26.1.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Patryk\.gradle\caches\transforms-3\bde2bd80b5e07f81f72122bc9014cc6e\transformed\support-compat-26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Patryk\.gradle\caches\transforms-3\bde2bd80b5e07f81f72122bc9014cc6e\transformed\support-compat-26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [org.tensorflow:tensorflow-lite-api:2.14.0] C:\Users\Patryk\.gradle\caches\transforms-3\60267cf47c95a9815dd0442ee56df830\transformed\tensorflow-lite-api-2.14.0\AndroidManifest.xml:9:5-20
+MERGED from [org.tensorflow:tensorflow-lite-api:2.14.0] C:\Users\Patryk\.gradle\caches\transforms-3\60267cf47c95a9815dd0442ee56df830\transformed\tensorflow-lite-api-2.14.0\AndroidManifest.xml:9:5-20
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Patryk\.gradle\caches\transforms-3\48f79f9d7f9f036f3aa608c850bf4451\transformed\runtime-1.0.0\AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Patryk\.gradle\caches\transforms-3\48f79f9d7f9f036f3aa608c850bf4451\transformed\runtime-1.0.0\AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.android.odml:image:1.0.0-beta1] C:\Users\Patryk\.gradle\caches\transforms-3\84fba1f6258fe8e74a0b2d3421f95149\transformed\image-1.0.0-beta1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.odml:image:1.0.0-beta1] C:\Users\Patryk\.gradle\caches\transforms-3\84fba1f6258fe8e74a0b2d3421f95149\transformed\image-1.0.0-beta1\AndroidManifest.xml:7:5-20
+	android:extractNativeLibs
+		ADDED from C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:37:9-41
+	android:label
+		ADDED from C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:39:9-41
+	android:icon
+		ADDED from C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:38:9-40
+	android:allowBackup
+		ADDED from C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:35:9-36
+	android:description
+		ADDED from C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:36:9-47
+	android:theme
+		ADDED from C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:40:9-40
+	android:name
+		ADDED from C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:34:9-81
+meta-data#app_desc
+ADDED from C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:45:9-47:48
+	android:value
+		ADDED from C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:47:13-45
+	android:name
+		ADDED from C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:46:13-36
+activity#com.atakmap.app.component
+ADDED from C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:49:8-54:19
+	tools:ignore
+		ADDED from C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:50:12-39
+	android:name
+		ADDED from C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:49:18-58
+intent-filter#action:name:com.atakmap.app.component
+ADDED from C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:51:12-53:28
+	android:label
+		ADDED from C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:51:27-59
+action#com.atakmap.app.component
+ADDED from C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:52:15-66
+	android:name
+		ADDED from C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:52:23-63
+activity#com.atakmap.android.plugintemplate.activities.MraiActivity
+ADDED from C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:56:9-66:20
+	android:screenOrientation
+		ADDED from C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:60:13-50
+	android:label
+		ADDED from C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:59:13-33
+	android:exported
+		ADDED from C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:58:13-36
+	android:theme
+		ADDED from C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:61:13-63
+	android:name
+		ADDED from C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:57:13-86
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:62:13-65:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:63:17-69
+	android:name
+		ADDED from C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:63:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:64:17-77
+	android:name
+		ADDED from C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:64:27-74
+uses-sdk
+INJECTED from C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:gridlayout-v7:26.1.0] C:\Users\Patryk\.gradle\caches\transforms-3\c742a7657c8b23edddc99b00136c9c1a\transformed\gridlayout-v7-26.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:gridlayout-v7:26.1.0] C:\Users\Patryk\.gradle\caches\transforms-3\c742a7657c8b23edddc99b00136c9c1a\transformed\gridlayout-v7-26.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:26.1.0] C:\Users\Patryk\.gradle\caches\transforms-3\58995126e91b3c9d03a1e95645b6cbe7\transformed\design-26.1.0\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.1.0] C:\Users\Patryk\.gradle\caches\transforms-3\58995126e91b3c9d03a1e95645b6cbe7\transformed\design-26.1.0\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Patryk\.gradle\caches\transforms-3\ab5fda52ba574b69b641080b17e69286\transformed\appcompat-v7-26.1.0\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Patryk\.gradle\caches\transforms-3\ab5fda52ba574b69b641080b17e69286\transformed\appcompat-v7-26.1.0\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Patryk\.gradle\caches\transforms-3\f4835fe70912b1d675084996733c5435\transformed\transition-26.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Patryk\.gradle\caches\transforms-3\f4835fe70912b1d675084996733c5435\transformed\transition-26.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Patryk\.gradle\caches\transforms-3\cd0a1c00db02df2afc70de753f096236\transformed\support-v4-26.1.0\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Patryk\.gradle\caches\transforms-3\cd0a1c00db02df2afc70de753f096236\transformed\support-v4-26.1.0\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Patryk\.gradle\caches\transforms-3\072410cc63700058a295aec6fb8110c6\transformed\constraint-layout-1.0.2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Patryk\.gradle\caches\transforms-3\072410cc63700058a295aec6fb8110c6\transformed\constraint-layout-1.0.2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.getbase:floatingactionbutton:1.10.1] C:\Users\Patryk\.gradle\caches\transforms-3\b607034f3197fbc6a2da19583f5e55f7\transformed\floatingactionbutton-1.10.1\AndroidManifest.xml:8:5-10:41
+MERGED from [com.getbase:floatingactionbutton:1.10.1] C:\Users\Patryk\.gradle\caches\transforms-3\b607034f3197fbc6a2da19583f5e55f7\transformed\floatingactionbutton-1.10.1\AndroidManifest.xml:8:5-10:41
+MERGED from [org.osmdroid:osmdroid-android:6.0.3] C:\Users\Patryk\.gradle\caches\transforms-3\7a99a902e428394bc280c27d3feb3237\transformed\osmdroid-android-6.0.3\AndroidManifest.xml:7:5-9:41
+MERGED from [org.osmdroid:osmdroid-android:6.0.3] C:\Users\Patryk\.gradle\caches\transforms-3\7a99a902e428394bc280c27d3feb3237\transformed\osmdroid-android-6.0.3\AndroidManifest.xml:7:5-9:41
+MERGED from [org.tensorflow:tensorflow-lite-support:0.4.4] C:\Users\Patryk\.gradle\caches\transforms-3\93d8e6a8252c149fd51e61785485ede1\transformed\tensorflow-lite-support-0.4.4\AndroidManifest.xml:4:3-71
+MERGED from [org.tensorflow:tensorflow-lite-support:0.4.4] C:\Users\Patryk\.gradle\caches\transforms-3\93d8e6a8252c149fd51e61785485ede1\transformed\tensorflow-lite-support-0.4.4\AndroidManifest.xml:4:3-71
+MERGED from [org.tensorflow:tensorflow-lite:2.14.0] C:\Users\Patryk\.gradle\caches\transforms-3\89a42247c89e52cc2ac7694ad4f398cb\transformed\tensorflow-lite-2.14.0\AndroidManifest.xml:6:5-7:38
+MERGED from [org.tensorflow:tensorflow-lite:2.14.0] C:\Users\Patryk\.gradle\caches\transforms-3\89a42247c89e52cc2ac7694ad4f398cb\transformed\tensorflow-lite-2.14.0\AndroidManifest.xml:6:5-7:38
+MERGED from [org.tensorflow:tensorflow-lite-gpu:2.14.0] C:\Users\Patryk\.gradle\caches\transforms-3\cbcad19e61caf78f58337719452c379e\transformed\tensorflow-lite-gpu-2.14.0\AndroidManifest.xml:6:5-7:38
+MERGED from [org.tensorflow:tensorflow-lite-gpu:2.14.0] C:\Users\Patryk\.gradle\caches\transforms-3\cbcad19e61caf78f58337719452c379e\transformed\tensorflow-lite-gpu-2.14.0\AndroidManifest.xml:6:5-7:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Patryk\.gradle\caches\transforms-3\5d239e09b058d33b37b8942be02623c0\transformed\support-fragment-26.1.0\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Patryk\.gradle\caches\transforms-3\5d239e09b058d33b37b8942be02623c0\transformed\support-fragment-26.1.0\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Patryk\.gradle\caches\transforms-3\2c10ffa3b6b6516a6914a64d3770c1e3\transformed\animated-vector-drawable-26.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Patryk\.gradle\caches\transforms-3\2c10ffa3b6b6516a6914a64d3770c1e3\transformed\animated-vector-drawable-26.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Patryk\.gradle\caches\transforms-3\a1f4f28f187614f3e63d8508488584d6\transformed\recyclerview-v7-26.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Patryk\.gradle\caches\transforms-3\a1f4f28f187614f3e63d8508488584d6\transformed\recyclerview-v7-26.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Patryk\.gradle\caches\transforms-3\c6a43cd9782f1d97799c9733384b7ab9\transformed\support-core-ui-26.1.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Patryk\.gradle\caches\transforms-3\c6a43cd9782f1d97799c9733384b7ab9\transformed\support-core-ui-26.1.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Patryk\.gradle\caches\transforms-3\40e45329c852e23f059cadb3c45dc14d\transformed\support-media-compat-26.1.0\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Patryk\.gradle\caches\transforms-3\40e45329c852e23f059cadb3c45dc14d\transformed\support-media-compat-26.1.0\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Patryk\.gradle\caches\transforms-3\71a040f15c00fe6a7fffdc9f02cb3ecf\transformed\support-core-utils-26.1.0\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Patryk\.gradle\caches\transforms-3\71a040f15c00fe6a7fffdc9f02cb3ecf\transformed\support-core-utils-26.1.0\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Patryk\.gradle\caches\transforms-3\3d459bf6201fdca3d890e1c9ff63679d\transformed\support-vector-drawable-26.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Patryk\.gradle\caches\transforms-3\3d459bf6201fdca3d890e1c9ff63679d\transformed\support-vector-drawable-26.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Patryk\.gradle\caches\transforms-3\bde2bd80b5e07f81f72122bc9014cc6e\transformed\support-compat-26.1.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Patryk\.gradle\caches\transforms-3\bde2bd80b5e07f81f72122bc9014cc6e\transformed\support-compat-26.1.0\AndroidManifest.xml:21:5-23:58
+MERGED from [org.tensorflow:tensorflow-lite-support-api:0.4.4] C:\Users\Patryk\.gradle\caches\transforms-3\9a9fbb18dbbc0cc1e759a2bea2ddfe57\transformed\tensorflow-lite-support-api-0.4.4\AndroidManifest.xml:4:3-71
+MERGED from [org.tensorflow:tensorflow-lite-support-api:0.4.4] C:\Users\Patryk\.gradle\caches\transforms-3\9a9fbb18dbbc0cc1e759a2bea2ddfe57\transformed\tensorflow-lite-support-api-0.4.4\AndroidManifest.xml:4:3-71
+MERGED from [org.tensorflow:tensorflow-lite-api:2.14.0] C:\Users\Patryk\.gradle\caches\transforms-3\60267cf47c95a9815dd0442ee56df830\transformed\tensorflow-lite-api-2.14.0\AndroidManifest.xml:6:5-7:38
+MERGED from [org.tensorflow:tensorflow-lite-api:2.14.0] C:\Users\Patryk\.gradle\caches\transforms-3\60267cf47c95a9815dd0442ee56df830\transformed\tensorflow-lite-api-2.14.0\AndroidManifest.xml:6:5-7:38
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Patryk\.gradle\caches\transforms-3\48f79f9d7f9f036f3aa608c850bf4451\transformed\runtime-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Patryk\.gradle\caches\transforms-3\48f79f9d7f9f036f3aa608c850bf4451\transformed\runtime-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.odml:image:1.0.0-beta1] C:\Users\Patryk\.gradle\caches\transforms-3\84fba1f6258fe8e74a0b2d3421f95149\transformed\image-1.0.0-beta1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.odml:image:1.0.0-beta1] C:\Users\Patryk\.gradle\caches\transforms-3\84fba1f6258fe8e74a0b2d3421f95149\transformed\image-1.0.0-beta1\AndroidManifest.xml:5:5-44
+INJECTED from C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.1.0] C:\Users\Patryk\.gradle\caches\transforms-3\58995126e91b3c9d03a1e95645b6cbe7\transformed\design-26.1.0\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		ADDED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Patryk\.gradle\caches\transforms-3\072410cc63700058a295aec6fb8110c6\transformed\constraint-layout-1.0.2\AndroidManifest.xml:7:9-38
+	android:minSdkVersion
+		INJECTED from C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:gridlayout-v7:26.1.0] C:\Users\Patryk\.gradle\caches\transforms-3\c742a7657c8b23edddc99b00136c9c1a\transformed\gridlayout-v7-26.1.0\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:design:26.1.0] C:\Users\Patryk\.gradle\caches\transforms-3\58995126e91b3c9d03a1e95645b6cbe7\transformed\design-26.1.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:design:26.1.0] C:\Users\Patryk\.gradle\caches\transforms-3\58995126e91b3c9d03a1e95645b6cbe7\transformed\design-26.1.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Patryk\.gradle\caches\transforms-3\ab5fda52ba574b69b641080b17e69286\transformed\appcompat-v7-26.1.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Patryk\.gradle\caches\transforms-3\ab5fda52ba574b69b641080b17e69286\transformed\appcompat-v7-26.1.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Patryk\.gradle\caches\transforms-3\f4835fe70912b1d675084996733c5435\transformed\transition-26.1.0\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Patryk\.gradle\caches\transforms-3\f4835fe70912b1d675084996733c5435\transformed\transition-26.1.0\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Patryk\.gradle\caches\transforms-3\cd0a1c00db02df2afc70de753f096236\transformed\support-v4-26.1.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Patryk\.gradle\caches\transforms-3\cd0a1c00db02df2afc70de753f096236\transformed\support-v4-26.1.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Patryk\.gradle\caches\transforms-3\5d239e09b058d33b37b8942be02623c0\transformed\support-fragment-26.1.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Patryk\.gradle\caches\transforms-3\5d239e09b058d33b37b8942be02623c0\transformed\support-fragment-26.1.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Patryk\.gradle\caches\transforms-3\2c10ffa3b6b6516a6914a64d3770c1e3\transformed\animated-vector-drawable-26.1.0\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Patryk\.gradle\caches\transforms-3\2c10ffa3b6b6516a6914a64d3770c1e3\transformed\animated-vector-drawable-26.1.0\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Patryk\.gradle\caches\transforms-3\a1f4f28f187614f3e63d8508488584d6\transformed\recyclerview-v7-26.1.0\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Patryk\.gradle\caches\transforms-3\a1f4f28f187614f3e63d8508488584d6\transformed\recyclerview-v7-26.1.0\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Patryk\.gradle\caches\transforms-3\c6a43cd9782f1d97799c9733384b7ab9\transformed\support-core-ui-26.1.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Patryk\.gradle\caches\transforms-3\c6a43cd9782f1d97799c9733384b7ab9\transformed\support-core-ui-26.1.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Patryk\.gradle\caches\transforms-3\40e45329c852e23f059cadb3c45dc14d\transformed\support-media-compat-26.1.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Patryk\.gradle\caches\transforms-3\40e45329c852e23f059cadb3c45dc14d\transformed\support-media-compat-26.1.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Patryk\.gradle\caches\transforms-3\71a040f15c00fe6a7fffdc9f02cb3ecf\transformed\support-core-utils-26.1.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Patryk\.gradle\caches\transforms-3\71a040f15c00fe6a7fffdc9f02cb3ecf\transformed\support-core-utils-26.1.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Patryk\.gradle\caches\transforms-3\3d459bf6201fdca3d890e1c9ff63679d\transformed\support-vector-drawable-26.1.0\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Patryk\.gradle\caches\transforms-3\3d459bf6201fdca3d890e1c9ff63679d\transformed\support-vector-drawable-26.1.0\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Patryk\.gradle\caches\transforms-3\bde2bd80b5e07f81f72122bc9014cc6e\transformed\support-compat-26.1.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Patryk\.gradle\caches\transforms-3\bde2bd80b5e07f81f72122bc9014cc6e\transformed\support-compat-26.1.0\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:gridlayout-v7:26.1.0] C:\Users\Patryk\.gradle\caches\transforms-3\c742a7657c8b23edddc99b00136c9c1a\transformed\gridlayout-v7-26.1.0\AndroidManifest.xml:25:13-35
+	android:name
+		ADDED from [com.android.support:gridlayout-v7:26.1.0] C:\Users\Patryk\.gradle\caches\transforms-3\c742a7657c8b23edddc99b00136c9c1a\transformed\gridlayout-v7-26.1.0\AndroidManifest.xml:24:13-51
+supports-screens
+ADDED from [org.osmdroid:osmdroid-android:6.0.3] C:\Users\Patryk\.gradle\caches\transforms-3\7a99a902e428394bc280c27d3feb3237\transformed\osmdroid-android-6.0.3\AndroidManifest.xml:11:5-14:40
+	android:largeScreens
+		ADDED from [org.osmdroid:osmdroid-android:6.0.3] C:\Users\Patryk\.gradle\caches\transforms-3\7a99a902e428394bc280c27d3feb3237\transformed\osmdroid-android-6.0.3\AndroidManifest.xml:13:9-36
+	android:normalScreens
+		ADDED from [org.osmdroid:osmdroid-android:6.0.3] C:\Users\Patryk\.gradle\caches\transforms-3\7a99a902e428394bc280c27d3feb3237\transformed\osmdroid-android-6.0.3\AndroidManifest.xml:14:9-37
+	android:anyDensity
+		ADDED from [org.osmdroid:osmdroid-android:6.0.3] C:\Users\Patryk\.gradle\caches\transforms-3\7a99a902e428394bc280c27d3feb3237\transformed\osmdroid-android-6.0.3\AndroidManifest.xml:12:9-34
+uses-feature#android.hardware.location.network
+ADDED from [org.osmdroid:osmdroid-android:6.0.3] C:\Users\Patryk\.gradle\caches\transforms-3\7a99a902e428394bc280c27d3feb3237\transformed\osmdroid-android-6.0.3\AndroidManifest.xml:16:5-18:36
+	android:required
+		ADDED from [org.osmdroid:osmdroid-android:6.0.3] C:\Users\Patryk\.gradle\caches\transforms-3\7a99a902e428394bc280c27d3feb3237\transformed\osmdroid-android-6.0.3\AndroidManifest.xml:18:9-33
+	android:name
+		ADDED from [org.osmdroid:osmdroid-android:6.0.3] C:\Users\Patryk\.gradle\caches\transforms-3\7a99a902e428394bc280c27d3feb3237\transformed\osmdroid-android-6.0.3\AndroidManifest.xml:17:9-57
+uses-feature#android.hardware.location.gps
+ADDED from [org.osmdroid:osmdroid-android:6.0.3] C:\Users\Patryk\.gradle\caches\transforms-3\7a99a902e428394bc280c27d3feb3237\transformed\osmdroid-android-6.0.3\AndroidManifest.xml:19:5-21:36
+	android:required
+		ADDED from [org.osmdroid:osmdroid-android:6.0.3] C:\Users\Patryk\.gradle\caches\transforms-3\7a99a902e428394bc280c27d3feb3237\transformed\osmdroid-android-6.0.3\AndroidManifest.xml:21:9-33
+	android:name
+		ADDED from [org.osmdroid:osmdroid-android:6.0.3] C:\Users\Patryk\.gradle\caches\transforms-3\7a99a902e428394bc280c27d3feb3237\transformed\osmdroid-android-6.0.3\AndroidManifest.xml:20:9-53
+uses-feature#android.hardware.telephony
+ADDED from [org.osmdroid:osmdroid-android:6.0.3] C:\Users\Patryk\.gradle\caches\transforms-3\7a99a902e428394bc280c27d3feb3237\transformed\osmdroid-android-6.0.3\AndroidManifest.xml:22:5-24:36
+	android:required
+		ADDED from [org.osmdroid:osmdroid-android:6.0.3] C:\Users\Patryk\.gradle\caches\transforms-3\7a99a902e428394bc280c27d3feb3237\transformed\osmdroid-android-6.0.3\AndroidManifest.xml:24:9-33
+	android:name
+		ADDED from [org.osmdroid:osmdroid-android:6.0.3] C:\Users\Patryk\.gradle\caches\transforms-3\7a99a902e428394bc280c27d3feb3237\transformed\osmdroid-android-6.0.3\AndroidManifest.xml:23:9-50
+uses-feature#android.hardware.wifi
+ADDED from [org.osmdroid:osmdroid-android:6.0.3] C:\Users\Patryk\.gradle\caches\transforms-3\7a99a902e428394bc280c27d3feb3237\transformed\osmdroid-android-6.0.3\AndroidManifest.xml:25:5-27:36
+	android:required
+		ADDED from [org.osmdroid:osmdroid-android:6.0.3] C:\Users\Patryk\.gradle\caches\transforms-3\7a99a902e428394bc280c27d3feb3237\transformed\osmdroid-android-6.0.3\AndroidManifest.xml:27:9-33
+	android:name
+		ADDED from [org.osmdroid:osmdroid-android:6.0.3] C:\Users\Patryk\.gradle\caches\transforms-3\7a99a902e428394bc280c27d3feb3237\transformed\osmdroid-android-6.0.3\AndroidManifest.xml:26:9-45
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Patryk\.gradle\caches\transforms-3\48f79f9d7f9f036f3aa608c850bf4451\transformed\runtime-1.0.0\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Patryk\.gradle\caches\transforms-3\48f79f9d7f9f036f3aa608c850bf4451\transformed\runtime-1.0.0\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Patryk\.gradle\caches\transforms-3\48f79f9d7f9f036f3aa608c850bf4451\transformed\runtime-1.0.0\AndroidManifest.xml:26:13-58

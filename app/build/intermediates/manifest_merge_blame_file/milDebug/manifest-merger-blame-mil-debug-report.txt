@@ -1,0 +1,203 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.atakmap.android.plugintemplate.plugin"
+4    android:versionCode="1"
+5    android:versionName="1.0 () - [4.6.0]" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="24" />
+9-->[com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Patryk\.gradle\caches\transforms-3\072410cc63700058a295aec6fb8110c6\transformed\constraint-layout-1.0.2\AndroidManifest.xml:7:9-38
+10
+11    <uses-permission android:name="android.permission.BLUETOOTH" />
+11-->C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:5:5-68
+11-->C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:5:22-65
+12    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+12-->C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:6:5-74
+12-->C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:6:22-71
+13    <uses-permission android:name="android.permission.CHANGE_WIFI_MULTICAST_STATE" />
+13-->C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:7:5-86
+13-->C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:7:22-83
+14    <uses-permission android:name="android.permission.INTERNET" />
+14-->C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:8:5-67
+14-->C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:8:22-64
+15    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+15-->C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:9:5-76
+15-->C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:9:22-73
+16    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+16-->C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:10:5-79
+16-->C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:10:22-76
+17    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+17-->C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:11:5-79
+17-->C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:11:22-76
+18    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+18-->C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:12:5-81
+18-->C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:12:22-78
+19    <uses-permission android:name="android.permission.CAMERA" />
+19-->C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:13:5-65
+19-->C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:13:22-62
+20    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+20-->C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:14:5-81
+20-->C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:14:22-78
+21    <uses-permission android:name="android.permission.WAKE_LOCK" />
+21-->C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:15:5-68
+21-->C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:15:22-65
+22    <uses-permission android:name="android.permission.VIBRATE" />
+22-->C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:16:5-66
+22-->C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:16:22-63
+23    <uses-permission android:name="android.permission.CAMERA" />
+23-->C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:13:5-65
+23-->C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:13:22-62
+24    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+24-->C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:18:5-71
+24-->C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:18:22-68
+25    <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE" />
+25-->C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:19:5-79
+25-->C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:19:22-76
+26    <uses-permission android:name="android.permission.INTERNET" />
+26-->C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:8:5-67
+26-->C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:8:22-64
+27    <uses-permission android:name="android.permission.CHANGE_WIFI_MULTICAST_STATE" />
+27-->C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:7:5-86
+27-->C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:7:22-83
+28    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+28-->C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:12:5-81
+28-->C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:12:22-78
+29    <uses-permission android:name="android.permission.DISABLE_KEYGUARD" />
+29-->C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:23:5-75
+29-->C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:23:22-72
+30    <uses-permission android:name="android.permission.WAKE_LOCK" />
+30-->C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:15:5-68
+30-->C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:15:22-65
+31    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+31-->C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:11:5-79
+31-->C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:11:22-76
+32
+33    <uses-feature android:name="android.hardware.camera" />
+33-->C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:27:5-60
+33-->C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:27:19-57
+34    <uses-feature android:name="android.hardware.camera.autofocus" />
+34-->C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:28:5-70
+34-->C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:28:19-67
+35    <uses-feature
+35-->C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:29:5-31:35
+36        android:name="android.software.leanback"
+36-->C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:30:9-49
+37        android:required="true" />
+37-->C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:31:9-32
+38
+39    <supports-screens
+39-->[org.osmdroid:osmdroid-android:6.0.3] C:\Users\Patryk\.gradle\caches\transforms-3\7a99a902e428394bc280c27d3feb3237\transformed\osmdroid-android-6.0.3\AndroidManifest.xml:11:5-14:40
+40        android:anyDensity="true"
+40-->[org.osmdroid:osmdroid-android:6.0.3] C:\Users\Patryk\.gradle\caches\transforms-3\7a99a902e428394bc280c27d3feb3237\transformed\osmdroid-android-6.0.3\AndroidManifest.xml:12:9-34
+41        android:largeScreens="true"
+41-->[org.osmdroid:osmdroid-android:6.0.3] C:\Users\Patryk\.gradle\caches\transforms-3\7a99a902e428394bc280c27d3feb3237\transformed\osmdroid-android-6.0.3\AndroidManifest.xml:13:9-36
+42        android:normalScreens="true" />
+42-->[org.osmdroid:osmdroid-android:6.0.3] C:\Users\Patryk\.gradle\caches\transforms-3\7a99a902e428394bc280c27d3feb3237\transformed\osmdroid-android-6.0.3\AndroidManifest.xml:14:9-37
+43
+44    <uses-feature
+44-->[org.osmdroid:osmdroid-android:6.0.3] C:\Users\Patryk\.gradle\caches\transforms-3\7a99a902e428394bc280c27d3feb3237\transformed\osmdroid-android-6.0.3\AndroidManifest.xml:16:5-18:36
+45        android:name="android.hardware.location.network"
+45-->[org.osmdroid:osmdroid-android:6.0.3] C:\Users\Patryk\.gradle\caches\transforms-3\7a99a902e428394bc280c27d3feb3237\transformed\osmdroid-android-6.0.3\AndroidManifest.xml:17:9-57
+46        android:required="false" />
+46-->[org.osmdroid:osmdroid-android:6.0.3] C:\Users\Patryk\.gradle\caches\transforms-3\7a99a902e428394bc280c27d3feb3237\transformed\osmdroid-android-6.0.3\AndroidManifest.xml:18:9-33
+47    <uses-feature
+47-->[org.osmdroid:osmdroid-android:6.0.3] C:\Users\Patryk\.gradle\caches\transforms-3\7a99a902e428394bc280c27d3feb3237\transformed\osmdroid-android-6.0.3\AndroidManifest.xml:19:5-21:36
+48        android:name="android.hardware.location.gps"
+48-->[org.osmdroid:osmdroid-android:6.0.3] C:\Users\Patryk\.gradle\caches\transforms-3\7a99a902e428394bc280c27d3feb3237\transformed\osmdroid-android-6.0.3\AndroidManifest.xml:20:9-53
+49        android:required="false" />
+49-->[org.osmdroid:osmdroid-android:6.0.3] C:\Users\Patryk\.gradle\caches\transforms-3\7a99a902e428394bc280c27d3feb3237\transformed\osmdroid-android-6.0.3\AndroidManifest.xml:21:9-33
+50    <uses-feature
+50-->[org.osmdroid:osmdroid-android:6.0.3] C:\Users\Patryk\.gradle\caches\transforms-3\7a99a902e428394bc280c27d3feb3237\transformed\osmdroid-android-6.0.3\AndroidManifest.xml:22:5-24:36
+51        android:name="android.hardware.telephony"
+51-->[org.osmdroid:osmdroid-android:6.0.3] C:\Users\Patryk\.gradle\caches\transforms-3\7a99a902e428394bc280c27d3feb3237\transformed\osmdroid-android-6.0.3\AndroidManifest.xml:23:9-50
+52        android:required="false" />
+52-->[org.osmdroid:osmdroid-android:6.0.3] C:\Users\Patryk\.gradle\caches\transforms-3\7a99a902e428394bc280c27d3feb3237\transformed\osmdroid-android-6.0.3\AndroidManifest.xml:24:9-33
+53    <uses-feature
+53-->[org.osmdroid:osmdroid-android:6.0.3] C:\Users\Patryk\.gradle\caches\transforms-3\7a99a902e428394bc280c27d3feb3237\transformed\osmdroid-android-6.0.3\AndroidManifest.xml:25:5-27:36
+54        android:name="android.hardware.wifi"
+54-->[org.osmdroid:osmdroid-android:6.0.3] C:\Users\Patryk\.gradle\caches\transforms-3\7a99a902e428394bc280c27d3feb3237\transformed\osmdroid-android-6.0.3\AndroidManifest.xml:26:9-45
+55        android:required="false" />
+55-->[org.osmdroid:osmdroid-android:6.0.3] C:\Users\Patryk\.gradle\caches\transforms-3\7a99a902e428394bc280c27d3feb3237\transformed\osmdroid-android-6.0.3\AndroidManifest.xml:27:9-33
+56
+57    <application
+57-->C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:33:5-67:19
+58        android:name="com.atakmap.android.plugintemplate.pl.MediatorApplication"
+58-->C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:34:9-81
+59        android:allowBackup="false"
+59-->C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:35:9-36
+60        android:debuggable="true"
+61        android:description="@string/app_desc"
+61-->C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:36:9-47
+62        android:extractNativeLibs="true"
+62-->C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:37:9-41
+63        android:icon="@drawable/ikonka"
+63-->C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:38:9-40
+64        android:label="@string/app_name"
+64-->C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:39:9-41
+65        android:testOnly="true"
+66        android:theme="@style/AppTheme" >
+66-->C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:40:9-40
+67        <meta-data
+68            android:name="plugin-api"
+68-->C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:43:13-38
+69            android:value="com.atakmap.app@4.6.0.MIL" />
+69-->C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:44:13-46
+70        <meta-data
+70-->C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:45:9-47:48
+71            android:name="app_desc"
+71-->C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:46:13-36
+72            android:value="@string/app_desc" />
+72-->C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:47:13-45
+73        <!-- allow for plugin discovery -->
+74        <activity android:name="com.atakmap.app.component" >
+74-->C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:49:8-54:19
+74-->C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:49:18-58
+75            <intent-filter android:label="@string/app_name" >
+75-->C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:51:12-53:28
+75-->C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:51:27-59
+76                <action android:name="com.atakmap.app.component" />
+76-->C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:52:15-66
+76-->C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:52:23-63
+77            </intent-filter>
+78        </activity>
+79        <activity
+79-->C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:56:9-66:20
+80            android:name="com.atakmap.android.plugintemplate.activities.MraiActivity"
+80-->C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:57:13-86
+81            android:exported="true"
+81-->C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:58:13-36
+82            android:label="mrAI"
+82-->C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:59:13-33
+83            android:screenOrientation="landscape"
+83-->C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:60:13-50
+84            android:theme="@style/Theme.AppCompat.NoActionBar" >
+84-->C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:61:13-63
+85            <intent-filter>
+85-->C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:62:13-65:29
+86                <action android:name="android.intent.action.MAIN" />
+86-->C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:63:17-69
+86-->C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:63:25-66
+87
+88                <category android:name="android.intent.category.LAUNCHER" />
+88-->C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:64:17-77
+88-->C:\Users\Patryk\Desktop\Military reconnaissance AI\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:64:27-74
+89            </intent-filter>
+90        </activity>
+91
+92        <meta-data
+92-->[com.android.support:gridlayout-v7:26.1.0] C:\Users\Patryk\.gradle\caches\transforms-3\c742a7657c8b23edddc99b00136c9c1a\transformed\gridlayout-v7-26.1.0\AndroidManifest.xml:23:9-25:38
+93            android:name="android.support.VERSION"
+93-->[com.android.support:gridlayout-v7:26.1.0] C:\Users\Patryk\.gradle\caches\transforms-3\c742a7657c8b23edddc99b00136c9c1a\transformed\gridlayout-v7-26.1.0\AndroidManifest.xml:24:13-51
+94            android:value="26.1.0" />
+94-->[com.android.support:gridlayout-v7:26.1.0] C:\Users\Patryk\.gradle\caches\transforms-3\c742a7657c8b23edddc99b00136c9c1a\transformed\gridlayout-v7-26.1.0\AndroidManifest.xml:25:13-35
+95        <meta-data
+95-->[android.arch.lifecycle:runtime:1.0.0] C:\Users\Patryk\.gradle\caches\transforms-3\48f79f9d7f9f036f3aa608c850bf4451\transformed\runtime-1.0.0\AndroidManifest.xml:25:9-27:47
+96            android:name="android.arch.lifecycle.VERSION"
+96-->[android.arch.lifecycle:runtime:1.0.0] C:\Users\Patryk\.gradle\caches\transforms-3\48f79f9d7f9f036f3aa608c850bf4451\transformed\runtime-1.0.0\AndroidManifest.xml:26:13-58
+97            android:value="27.0.0-SNAPSHOT" />
+97-->[android.arch.lifecycle:runtime:1.0.0] C:\Users\Patryk\.gradle\caches\transforms-3\48f79f9d7f9f036f3aa608c850bf4451\transformed\runtime-1.0.0\AndroidManifest.xml:27:13-44
+98    </application>
+99
+100</manifest>

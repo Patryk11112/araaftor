@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.atakmap.android.test.ExampleTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-05-04T23:43:55" hostname="DESKTOP-DKSD01R" time="0.041">
+  <properties/>
+  <testcase name="testCalculateDistanceAngleMethod" classname="com.atakmap.android.test.ExampleTest" time="0.041"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
